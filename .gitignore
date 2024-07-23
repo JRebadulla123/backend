@@ -52,4 +52,8 @@ jspm_packages/
 .DS_Store
 
 # Windows file
+<<<<<<< HEAD
 Thumbs.db
+=======
+Thumbs.db
+>>>>>>> 2bdc6eaaa2f57d0f3b1130ff0ae26f8a936585d1
